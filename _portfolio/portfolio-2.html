@@ -1,7 +1,18 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Unsupervised Clustering and Visualization of Language-Agnostic Text Data"
+excerpt: "Using AI to Facilitate Citizen Participation in Demomcratic Policy Delibration <br/><img src='/files/scatter.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+[I am an inline-style link with Title](https://github.com/minkyuk/cddrl_sent_classification "github page")
+
+**Challenge of classifying legal documents**, such as ones from Federal Communication Commissions, using various state-of-art sentence vectorization and unsupervised classification method.
+
+The current code includes the FCC API key that was used to scrap the documents from EFCS data base. A new regulations.gov API Key can be requested and registered with a working institutional e-mail as the currently registered e-mail has expired.
+
+params.py contains a basic structure to simply add/delete attributes to a parameter class. In the current code, I decided to put all the directory informations and dynamically-obtained json files to have instant access to it while the code is running so that one does not have to make a file-read whenever we need access to the documents.
+
+The current code contains a specific data collecting function from EFCS server using downloadplan.
+
+When scrapping files from FCC, I save the documents from each bucket (which may vary in number) into a folder 'output_docs'. This folder is created if it doesn't exist. Then, it saves the downloadplan data in a txt file in it. Each document/bucket has an id corresponding to it, and for all documents scrapped, the ids are logged dynamically in a txt file 'filing.txt'. Then, optionally, at each time of execution of read on each document, the documents are converted into json and are saved to params AND 'all_json_text.txt', or any chosen name in the parameter, in the global project folder. This makes a cushion for reading json file directly from saved json instead of reading each bucket and converting them into json in case of a failed save in dynamic parameter class.
