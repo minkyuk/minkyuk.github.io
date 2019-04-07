@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Minkyu and I build and design systems that support research practice in machine learning.
+Hi! My name is Minkyu and I implement systems that support research practice in natural language processing and pattern recognition.
 
 ![alt text](https://minkyuk.github.io/files/scatter.png "scatter")
