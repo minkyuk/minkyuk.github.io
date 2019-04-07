@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume [PDF]](http://minkyuk.github.io/files/minkyuk_cv.pdf)
+[Click here for my Resume ![PDF]](http://minkyuk.github.io/files/minkyuk_cv.pdf)
 
 <!-- <embed src="http://minkyuk.github.io/files/minkyuk_cv.pdf" width="650" height="1800" type='application/pdf'> -->
 
