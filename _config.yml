@@ -87,14 +87,14 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "kimm@mssm.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "http://www.facebook.com/nadakairos"
   foursquare       :
   github           : "minkyuk"
   google_plus      :
@@ -102,10 +102,10 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "http://www.linkedin.com/in/minkyuk"
   orcid            : 
   pinterest        :
-  soundcloud       :
+  soundcloud       : "http://www.soundcloud.com/minkyukim"
   stackoverflow    : http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
