@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "minkyu kim"
+title: "Minkyu Kim"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome.
+Hi! My name is Minkyu and I build and design systems that support research practice in machine learning.
 
 ![alt text](https://minkyuk.github.io/files/scatter.jpg "scatter")
