@@ -10,4 +10,4 @@ redirect_from:
 
 Hi! Welcome.
 
-![alt text](https://minkyuk.github.io/files/scatter.jpg " scatter")
+![alt text](https://minkyuk.github.io/files/scatter.jpg "scatter")
