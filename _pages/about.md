@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Minkyu and I implement systems that support research practice in natural language processing and pattern recognition.
+Hi! My name is Minkyu and I like to hike. I am a software engineer in machine learning who implements and designs systems that support research practice in natural language processing and pattern recognition theory.
 
 ![alt text](https://minkyuk.github.io/files/scatter.png "scatter")
