@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Min Kyu Kim"
 title_separator          : "-"
 name                     : &name "Minkyu Kim"
-description              : &description "Software Engineer"
+description              : &description "Research Software Engineer - Machine Learning"
 url                      : https://minkyuk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "minkyuk/minkyuk.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Minkyu Kim"
   avatar           : "minkyu.jpg"
-  bio              : "Research Software Engineer"
+  bio              : "Software Engineer - Machine Learning"
   location         : "Palo Alto, CA"
   employer         :
   pubmed           : 
