@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Min Kyu Kim"
+title                    : "mercato"
 title_separator          : "-"
 name                     : &name "Minkyu Kim"
 description              : &description "Research Software Engineer - Machine Learning"
