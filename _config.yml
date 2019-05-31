@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "mercato"
+title                    : "Mercato"
 title_separator          : "-"
 name                     : &name "Minkyu Kim"
 description              : &description "Research Software Engineer - Machine Learning"
@@ -45,7 +45,7 @@ staticman:
     date:
       type               : "date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : "timestamp-milliseconds" # "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Minkyu Kim"
   avatar           : "minkyu.jpg"
-  bio              : "Full-Stack Software Engineer &nbsp; &nbsp; - Machine Learning"
+  bio              : "Full-Stack Software Engineer &nbsp; - Machine Learning"
   location         : "Palo Alto, CA"
   employer         :
   pubmed           : 
