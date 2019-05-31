@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Minkyu Kim"
-excerpt: "About me"
+excerpt: "Soli Deo Gloria"
 author_profile: true
 redirect_from: 
   - /about/
