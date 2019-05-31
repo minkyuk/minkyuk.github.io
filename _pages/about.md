@@ -15,9 +15,12 @@ Hello! My name is Minkyu. I am a software engineer in machine learning space wit
 <dl>
   <dt>Definition list</dt>
   <dd>Is something people use sometimes.</dd>
-  <p class="marquee">
-      <span id="dtText"></span>
-  </p>
+  n =  new Date();
+  y = n.getFullYear();
+  m = n.getMonth() + 1;
+  d = n.getDate();
+  document.getElementById("date").innerHTML = m + "/" + d + "/" + y;
+  <p id="date"></p>
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
