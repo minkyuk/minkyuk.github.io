@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mercato"
+title                    : "_"
 title_separator          : "-"
-name                     : &name "Minkyu Kim"
+name                     : &name "Min Kyu Kim"
 description              : &description "Research Software Engineer - Machine Learning"
 url                      : https://minkyuk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
